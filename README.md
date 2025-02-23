@@ -3,6 +3,8 @@ This is a list of a few prompts I've made for the DeepSeek website/app. There sh
 
 Feel free to adapt them or use the techniques I used for your own prompts.
 
+https://github.com/user-attachments/assets/e3580b1e-e6c2-44ff-9b54-98afa0130dd2
+
 # Prompt usage
 ## frog_basic
 This is a simple proof-of-concept to see if my ideas even work. It can also be used as a base.
